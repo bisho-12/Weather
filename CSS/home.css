@@ -1,0 +1,124 @@
+ .navbar-nav
+.nav-link
+{
+   margin-left:10px;
+} */
+
+.navbar
+{
+    font-size: 23px;
+}
+
+.card{
+
+    background: rgba(204, 204, 204, 0.601);
+}
+
+
+.navbar
+.navbar-brand
+img{
+
+    width: 100px;
+    height: 70px;
+   
+}
+
+.days
+{
+    background: rgb(71, 115, 144);
+    color:black;
+     border: 0px solid red;
+    border-radius: 4px;
+}
+
+
+
+.custom
+{
+ color:rgb(1, 111, 161);
+ font-size: 15px;
+ font-family: cursive;
+
+}
+
+
+
+
+
+.navbar-brand
+{
+    margin-top: 10px;
+    font-size: x-large;
+    font-family: 'Font Awesome 5 Free';
+} 
+
+.navbar
+{
+    background: linear-gradient(108deg, rgba(17,8,57,0.9697128851540616) 33%, rgba(6,43,71,1) 91%);
+
+}
+
+.navbar-nav{
+    --bs-nav-link-padding-x: 0;
+    --bs-nav-link-padding-y: 0.5rem;
+    --bs-nav-link-font-weight: ;
+    --bs-nav-link-color: rgba(255, 255, 255, 0.997);
+    --bs-nav-link-hover-color: rgb(255 11 11 / 80%);
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.navbar-nav .nav-link.active{
+    color:red;
+}
+
+
+.mid
+{
+background-image:linear-gradient(rgba(101, 101, 101, 0.648),rgba(0, 0, 0, 0.79)),url("/images/back.jpg");
+background-position:center ;
+background-size: cover;
+background-repeat: no-repeat;
+max-height: 50%;
+}
+
+
+
+.find-location 
+input[type="button"] {
+
+    position: absolute;
+   right:0.5px;
+}
+
+
+.find-location 
+input[type="text"] {
+
+    background-color: rgb(13, 41, 84);
+}
+
+
+
+
+
+.find-location 
+input::placeholder{
+
+    color: rgb(236, 255, 249);
+}
+
+
+
+
+
+
+
+.degree{
+
+    font-size: 150px;
+}
